@@ -1,0 +1,41 @@
+1° GIT CLONE = "https..." clona na  plataforma git bash.
+
+2° CD "PASTA ESCOLHIDA" = Entra em uma pasta.
+
+3° CD = Volta para pasta anterior.
+
+4° DIR = Lista as pastas que estão no local.
+
+5° MKDIR = Cria uma pasta dentro do local desejado.
+
+6° CTRL+L = Limpa a tela.
+
+7° LS = Lista tudo na pasta.
+
+8° GIT CONFIG --LIST = Lista as configurações do git.
+
+9° GIT STATUS = Informa o status do git.
+
+10° GIT PUSH ORIGIN MASTER/MAIN = Adiciona ao commit.
+
+11° GIT PULL ORIGIN MASTER/MAIN = Pucha do commit para sua maquina.
+
+12° MV ./ "PASTA" = Move a pasta que esta dentro para outro local desejado.
+
+13° PWD =  Lista últimos passos.
+
+14° UNTRACKED = Não tem ciência.
+
+15° UNMODFEDE = Não mexido.
+
+16° MODIFIED = Mexido.
+
+17° STAGED = Aguardando.
+
+18° COMMIT = Faz um print e volta para UNTRACKED.
+
+19° GIT ADD*/ ./ -A = Adiciona ao commit.
+
+20° GIT COMMIT -M "" = Adiciona uma mensagem para alterações feitas.
+
+
